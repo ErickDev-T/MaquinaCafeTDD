@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaquinaCafe.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0ff3ad5d7a0ac99b88a94a3d0fa578dbc295018")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaquinaCafe.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaquinaCafe.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
