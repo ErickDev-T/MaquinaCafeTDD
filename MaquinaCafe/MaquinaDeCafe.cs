@@ -42,6 +42,6 @@ public class MaquinaDeCafe
         Cafetera.GiveCafe(cafeNecesario);
         Azucarero.GiveAzucar(cucharadasAzucar);
 
-        return "Felicitaciones";
+        return "Felicidades";
     }
 }
