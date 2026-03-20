@@ -2,9 +2,14 @@ name: CI Pipeline
 
 on:
   push:
-    branches: [main, develop]
+    branches:
+      - main
+      - develop
+      - feature/github-actions
   pull_request:
-    branches: [main, develop]
+    branches:
+      - main
+      - develop
 
 jobs:
   build-and-test:
@@ -23,7 +28,7 @@ jobs:
         run: dotnet restore
 
       - name: Compilar proyecto
-        run: dotnet build MaquinaCafeTDD.sln --no-restore --configuration Release
+        run: dotnet build MaquinaCafe.Tests/MaquinaCafe.Tests.csproj --no-restore --configuration Release
 
       - name: Ejecutar pruebas
-        run: dotnet test MaquinaCafeTDD.sln --no-build --configuration Release
+        run: dotnet test MaquinaCafe.Tests/MaquinaCafe.Tests.csproj --no-build --configuration Release
