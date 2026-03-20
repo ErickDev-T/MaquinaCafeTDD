@@ -1,0 +1,11 @@
+C:\Users\Erick Tejada\Desktop\MaquinaCafeTDD\MaquinaCafe\bin\Debug\net8\MaquinaCafe.deps.json
+C:\Users\Erick Tejada\Desktop\MaquinaCafeTDD\MaquinaCafe\bin\Debug\net8\MaquinaCafe.dll
+C:\Users\Erick Tejada\Desktop\MaquinaCafeTDD\MaquinaCafe\bin\Debug\net8\MaquinaCafe.pdb
+C:\Users\Erick Tejada\Desktop\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8\MaquinaCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick Tejada\Desktop\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8\MaquinaCafe.AssemblyInfoInputs.cache
+C:\Users\Erick Tejada\Desktop\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8\MaquinaCafe.AssemblyInfo.cs
+C:\Users\Erick Tejada\Desktop\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8\MaquinaCafe.csproj.CoreCompileInputs.cache
+C:\Users\Erick Tejada\Desktop\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8\MaquinaCafe.dll
+C:\Users\Erick Tejada\Desktop\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8\refint\MaquinaCafe.dll
+C:\Users\Erick Tejada\Desktop\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8\MaquinaCafe.pdb
+C:\Users\Erick Tejada\Desktop\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8\ref\MaquinaCafe.dll

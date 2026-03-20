@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\MaquinaCafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MaquinaCafe\\MaquinaCafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe.Tests\\TestAzucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MaquinaCafe.Tests\\TestAzucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\Vaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MaquinaCafe\\Vaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\MaquinaDeCafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MaquinaCafe\\MaquinaDeCafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\Cafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MaquinaCafe\\Cafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\Azucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MaquinaCafe\\Azucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaquinaCafe.csproj",
+              "DocumentMoniker": "C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\MaquinaCafe.csproj",
+              "RelativeDocumentMoniker": "MaquinaCafe\\MaquinaCafe.csproj",
+              "ToolTip": "C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\MaquinaCafe.csproj",
+              "RelativeToolTip": "MaquinaCafe\\MaquinaCafe.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-20T17:37:00.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cafetera.cs",
+              "DocumentMoniker": "C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\Cafetera.cs",
+              "RelativeDocumentMoniker": "MaquinaCafe\\Cafetera.cs",
+              "ToolTip": "C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\Cafetera.cs",
+              "RelativeToolTip": "MaquinaCafe\\Cafetera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T17:36:59.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Azucarero.cs",
+              "DocumentMoniker": "C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\Azucarero.cs",
+              "RelativeDocumentMoniker": "MaquinaCafe\\Azucarero.cs",
+              "ToolTip": "C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\Azucarero.cs",
+              "RelativeToolTip": "MaquinaCafe\\Azucarero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T17:36:58.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vaso.cs",
+              "DocumentMoniker": "C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\Vaso.cs",
+              "RelativeDocumentMoniker": "MaquinaCafe\\Vaso.cs",
+              "ToolTip": "C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\Vaso.cs",
+              "RelativeToolTip": "MaquinaCafe\\Vaso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T17:35:09.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestAzucarero.cs",
+              "DocumentMoniker": "C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe.Tests\\TestAzucarero.cs",
+              "RelativeDocumentMoniker": "MaquinaCafe.Tests\\TestAzucarero.cs",
+              "ToolTip": "C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe.Tests\\TestAzucarero.cs",
+              "RelativeToolTip": "MaquinaCafe.Tests\\TestAzucarero.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T15:51:21.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaquinaCafe.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj",
+              "RelativeDocumentMoniker": "MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj",
+              "ToolTip": "C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj",
+              "RelativeToolTip": "MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-20T15:51:19.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaquinaDeCafe.cs",
+              "DocumentMoniker": "C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\MaquinaDeCafe.cs",
+              "RelativeDocumentMoniker": "MaquinaCafe\\MaquinaDeCafe.cs",
+              "ToolTip": "C:\\Users\\Erick Tejada\\Desktop\\MaquinaCafeTDD\\MaquinaCafe\\MaquinaDeCafe.cs",
+              "RelativeToolTip": "MaquinaCafe\\MaquinaDeCafe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T15:45:36.376Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1574,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
